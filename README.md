@@ -1,2 +1,2 @@
 :whale: My codes on leetcode.com
-:bugs: `dev` branch is the master branch
+:bug: `dev` branch is the master branch
