@@ -15,3 +15,7 @@ class Solution(object):
         Another brilliant answer.
         """
         # return sum(set(nums))*2 - sum(nums)*2
+        
+        return reduce(lambda x, y: x^y, nums)
+        import operator
+        return reduce(operator.xor, nums)
