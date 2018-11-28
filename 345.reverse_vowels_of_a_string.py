@@ -1,4 +1,4 @@
-ass Solution(object):
+class Solution(object):
     def reverseVowels(self, s):
         v = 'aeiouAEIOU'
         i, j = 0, len(s) - 1
