@@ -19,5 +19,6 @@ func kidsWithCandies(candies []int, extraCandies int) []bool {
 	return result
 }
 
+
 // @lc code=end
 
